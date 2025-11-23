@@ -334,7 +334,9 @@ curl http://localhost:3000/api/dashboard/kpis \
 
 ## License
 
-© 2024 StockMaster. All rights reserved.
+© 2025 StockMaster. All rights reserved.
+
+
 
 ## Support
 
